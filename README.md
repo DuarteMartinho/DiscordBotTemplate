@@ -1,0 +1,2 @@
+# DicordBotTemplate
+Dicord Bot Template
